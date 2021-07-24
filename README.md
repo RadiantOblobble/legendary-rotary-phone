@@ -1,4 +1,4 @@
-# legendary-rotary-hugs
+# legendary-rotary-phone
 Homework
 ========
 This is where homework goes I guess
